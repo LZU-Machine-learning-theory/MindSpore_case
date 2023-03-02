@@ -1,0 +1,47 @@
+https://www.sciencedirect.com/science/article/pii/S0003269722002585
+
+
+https://academic.oup.com/bib/article/23/3/bbac112/6554125
+
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0003269722002585
+
+
+
+https://www.connectedpapers.com/main/b8fb507b780e6fd62ab9a5983155fc5ed791cda9/UFold%3A-fast-and-accurate-RNA-secondary-structure-prediction-with-deep-learning/derivative
+
+
+
+https://academic.oup.com/nar/article/50/3/e14/6430845
+
+
+
+https://www.nature.com/articles/s41467-021-21194-4
+
+
+
+
+https://www.nature.com/articles/s41467-021-21194-4
+
+
+sudo useradd -m yuanyn2022
+sudo passwd yuanyn2022
+lzu@2022
+
+
+
+sudo userdel -r yourname 
+
+sudo userdel -r yuanyn2022
+
+
+
+
+
+
+
+
+
+
