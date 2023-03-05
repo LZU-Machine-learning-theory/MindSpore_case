@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>02-03_video04-frame-00253.jpg</filename>
+	<path>\home\hupeng\c_project\workspace\mask_images\total_xml\02-03_video04\JPEGImages\02-03_video04-frame-00253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1730</xmin>
+			<ymin>533</ymin>
+			<xmax>1920</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1356</xmin>
+			<ymin>517</ymin>
+			<xmax>1434</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>
