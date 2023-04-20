@@ -8,7 +8,7 @@
 4. 基于MindSpore实现梯度下降算法（已上传）
 5. 基于MindSpore构造负对数似然损失函数
 6. 基于MindSpore实现一维线性回归（已上传）
-7. 基于MindSpore实现二维线性回归
+7. 基于MindSpore实现二维线性回归（已上传）
 8. 基于MindSpore构造Relu激活函数（已上传）
 9. 基于MindSpore实现随机梯度下降算法（已上传）
 10. 基于MindSpore构造单层网络模型（已上传）
