@@ -18,10 +18,10 @@
 14. 基于MindSpore实现二分类损失函数（已上传）
 15. 基于MindSpore实现多分类损失函数（已上传）
 16. 基于MindSpore设置数据集Batch（已上传）
-17. 基于MindSpore构造Dropout层
+17. 基于MindSpore构造Dropout层（已上传）
 18. 使用MindSpore构造并训练VGG网络（已上传）
 19. 基于MindSpore构造全连接层
-20. 基于MindSpore构造卷积层
+20. 基于MindSpore构造卷积层（已上传）
 21. 基于MindSpore构建Max Pooling层（已上传）
 22. 基于MindSpore构建Min Pooling层（已上传）
 23. 基于MindSpore构建Avg Pooling层（已上传）
