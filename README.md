@@ -1,38 +1,37 @@
 # Machine Learning Course Cases Based on MindSpore
 
-## 34 Case Studies
+## 总结
 
-1. 基于MindSpore构造平方损失函数 （已上传）
-2. 基于MindSpore构造线性损失
-3. 基于MindSpore构造非对称损失
-4. 基于MindSpore实现梯度下降算法（已上传）
-5. 基于MindSpore构造负对数似然损失函数
-6. 基于MindSpore实现一维线性回归（已上传）
-7. 基于MindSpore实现二维线性回归（已上传）
-8. 基于MindSpore构造Relu激活函数（已上传）
-9. 基于MindSpore实现随机梯度下降算法（已上传）
-10. 基于MindSpore构造单层网络模型（已上传）
-11. 基于MindSpore构造多层网络模型（已上传）
-12. 使用MindSpore训练一个简单网络（已上传）
-13. 基于MindSpore实现softmax（已上传）
-14. 基于MindSpore实现二分类损失函数（已上传）
-15. 基于MindSpore实现多分类损失函数（已上传）
-16. 基于MindSpore设置数据集Batch（已上传）
-17. 基于MindSpore构造Dropout层（已上传）
-18. 使用MindSpore构造并训练VGG网络（已上传）
-19. 基于MindSpore构造全连接层
-20. 基于MindSpore构造卷积层（已上传）
-21. 基于MindSpore构建Max Pooling层（已上传）
-22. 基于MindSpore构建Min Pooling层（已上传）
-23. 基于MindSpore构建Avg Pooling层（已上传）
-24. 基于MindSpore实现ALexNet手写字体识别
-25. 基于MindSpore实现Qlearning
-26. 基于MindSpore实现AC算法
-27. 基于MindSpore实现强化学习示例
-28. 基于MindSpore实现LSTM算法
-29. 基于MindSpore实现一个推荐系统示例（已上传）
-30. 基于MindSpore实现图像分类示例（已上传）
-31. 基于MindSpore实现目标检测示例
-32. 基于MindSpore实现目标分割示例
-33. 基于MindSpore实现语义分割示例
-34. 基于MindSpore实现语音识别示例
+本项目是基于MindSpore的机器学习案例，共包含34个实验，覆盖机器学习从简单到复杂的各种实验，所有实验使用MindSpore框架实现。
+
+## 安装
+
+为了运行我们的代码，需要安装一些运行包
+
+```
+pip install -r requirements.txt
+```
+## 硬件环境
+
+本项目是基于MindSpore2.1实现的，在昇腾1.8上实现的，部分实验要求内存大于32GB，显存大于16GB。
+本项目所有实验均可在GPU、CPU、Ascend上运行，各个实验具体要求可参考对应实验的Readme文件
+
+## 运行
+
+下面是本项目运行的一些说明
+
+### 1. 数据集准备
+
+MNIST, CIFAR-10, CIFAR-100，鸢尾花数据集 可在代码运行的过程中直接下载，ImageNet数据集需在官方网站进行下载。
+
+### 2. 实验运行
+
+本项目中的每个实验均包含主运行文件，在每个实验中的notebook文件中，对该实验中的每一个步骤均有详细的说明，只需按照说明，运行notebook文件即可。
+
+### 3. 结果展示
+
+本项目中的实验均包含可视化结果展示
+
+## 致谢
+
+本项目为智能计算技术研究中心团队及华为公司共同构建，在项目完成的过程中，参考了符合MIT许可的部分代码，由于涉及人数较多，不再一一详述，在此一并感谢。
