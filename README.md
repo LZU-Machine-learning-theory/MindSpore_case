@@ -1,6 +1,6 @@
 # Machine Learning Course Cases Based on MindSpore
 
-## 总结
+## 概述
 
 本项目是基于MindSpore的机器学习案例，共包含34个实验，覆盖机器学习从简单到复杂的各种实验，所有实验使用MindSpore框架实现。
 
