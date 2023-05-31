@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 ## 硬件环境
 
-本项目是基于MindSpore2.1实现的，在昇腾1.8上实现的，部分实验要求内存大于32GB，显存大于16GB。
+本项目是基于MindSpore2.0实现的，在昇腾1.8上实现的，部分实验要求内存大于32GB，显存大于16GB。
 本项目所有实验均可在GPU、CPU、Ascend上运行，各个实验具体要求可参考对应实验的Readme文件
 
 ## 运行
